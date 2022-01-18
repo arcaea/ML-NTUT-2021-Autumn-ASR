@@ -11,7 +11,7 @@ Keras(conV1D)
 
 流程
 =======
-![image](https://github.com/MachineLearningNTUT/automatic-speech-recognition-NTUB110002016/blob/main/HW3/PICS/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+![image](https://github.com/arcaea/ML-2021-Autumn-ASR/blob/main/PIC/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
 匯入函式庫
 =======
@@ -177,7 +177,7 @@ ctc_loss=Lambda(calc_ctc_loss,output_shape=(1,),name='ctc')([Y,Y_pred,X_length,Y
 
 資料視覺化
 =======
-![image](https://github.com/MachineLearningNTUT/automatic-speech-recognition-NTUB110002016/blob/main/HW3/PICS/loss.png)
+![image](https://github.com/arcaea/ML-2021-Autumn-ASR/blob/main/PIC/loss.png)
 
 優化器
 =======
