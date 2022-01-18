@@ -1,3 +1,5 @@
+#註:H5為32114KB 無法放入github(最大25MB)
+
 環境
 =======
 google colaboratory \
