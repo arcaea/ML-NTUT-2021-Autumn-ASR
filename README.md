@@ -178,7 +178,7 @@ ctc_loss=Lambda(calc_ctc_loss,output_shape=(1,),name='ctc')([Y,Y_pred,X_length,Y
 資料視覺化
 =======
 ![image](https://github.com/arcaea/ML-2021-Autumn-ASR/blob/main/PIC/loss.png)
-
+ 
 優化器
 =======
 ```python
