@@ -11,7 +11,7 @@ Keras(conV1D)
 
 流程
 =======
-![image](https://github.com/arcaea/ML-2021-Autumn-ASR/blob/main/PIC/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+![image](https://github.com/arcaea/ML-2021-Autumn-ASR/blob/main/PIC/流程圖.jpg)
 
 匯入函式庫
 =======
